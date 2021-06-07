@@ -1,0 +1,8 @@
+.erro {
+    align-self: center;
+    background-color: lightblue;
+    border-bottom: 5px solid rgb(65, 11, 102);
+    margin-bottom: 20px;
+    color: midnightblue;
+    text-align: center;
+}
